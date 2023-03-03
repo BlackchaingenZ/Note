@@ -1,0 +1,7 @@
+Cach day code len github lan tiep theo
+git init
+git add .
+git commit -m "dat ten bat ky"
+git remote add origin "Dia chi github"
+git push -u origin master
+
